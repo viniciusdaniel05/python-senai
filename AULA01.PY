@@ -1,0 +1,5 @@
+print('Olá, mundo') 
+print ('quero o novo album de Ariana Grande')
+print("botox é melhor que muita gente")
+print ('quero ir para minha casa')
+print ('a coxinha da nurap deveria ser mais barata')
